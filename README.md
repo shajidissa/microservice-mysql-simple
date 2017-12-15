@@ -8,6 +8,6 @@ Run (to start) :
 
 Urls :
 
-http://localhost:8080/demo/all
+http://localhost:8080/microservice-mysql-simple/demo/all
 
-http://localhost:8080/demo/add?name=saj&email=saj.issa@gmail.com
+http://localhost:8080/microservice-mysql-simple/demo/add?name=saj&email=saj.issa@gmail.com
