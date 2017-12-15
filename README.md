@@ -11,3 +11,8 @@ Urls :
 http://localhost:8080/microservice-mysql-simple/demo/all
 
 http://localhost:8080/microservice-mysql-simple/demo/add?name=saj&email=saj.issa@gmail.com
+
+http://www.h2ss.co.uk/microservice-mysql-simple/demo/all
+
+http://www.h2ss.co.uk/microservice-mysql-simple/demo/add?name=saj&email=saj.issa@gmail.com
+
