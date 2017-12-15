@@ -52,6 +52,7 @@
     </properties>
 
     <build>
+        <finalName>microservice-mysql-simple</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
