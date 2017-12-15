@@ -1,0 +1,13 @@
+Build : 
+
+mvn clean compile package
+
+Run (to start) :
+
+./mvnw spring-boot:run
+
+Urls :
+
+http://localhost:8080/demo/all
+
+http://localhost:8080/demo/add?name=saj&email=saj.issa@gmail.com
