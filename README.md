@@ -16,3 +16,4 @@ http://www.h2ss.co.uk/microservice-mysql-simple/demo/all
 
 http://www.h2ss.co.uk/microservice-mysql-simple/demo/add?name=saj&email=saj.issa@gmail.com
 
+http://52.191.209.219/jenkins/job/microservice-mysql-simple/
