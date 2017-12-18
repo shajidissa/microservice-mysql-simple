@@ -18,7 +18,8 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://51.141.9.85:8761/eureka
+      #defaultZone: http://51.141.9.85:8761/eureka
+      defaultZone: http://localhost:8761/eureka
     instance:
       appname: microservice-mysql-simple
       
