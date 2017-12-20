@@ -25,3 +25,11 @@ http://51.141.9.85:8080/microservice-mysql-simple/demo/all
 http://51.141.9.85:8080/demo/add?name=saj&email=saj.issa@gmail.com
 
 http://51.141.9.85:8080/demo/all
+
+http://localhost:8080/demo/add?name=saj&email=saj.issa@gmail.com
+
+http://localhost:8080/demo/all
+
+http://www.h2ss.co.uk:8091/demo/add?name=saj&email=saj.issa@gmail.com
+
+http://www.h2ss.co.uk:8091/demo/all
