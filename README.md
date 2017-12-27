@@ -33,3 +33,5 @@ http://localhost:8080/demo/all
 http://www.h2ss.co.uk:8090/demo/add?name=saj&email=saj.issa@gmail.com
 
 http://www.h2ss.co.uk:8090/demo/all
+
+http://51.141.9.85:5555/api/microservice-mysql-simple/swagger-ui.html
