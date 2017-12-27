@@ -30,6 +30,6 @@ http://localhost:8080/demo/add?name=saj&email=saj.issa@gmail.com
 
 http://localhost:8080/demo/all
 
-http://www.h2ss.co.uk:8091/demo/add?name=saj&email=saj.issa@gmail.com
+http://www.h2ss.co.uk:8090/demo/add?name=saj&email=saj.issa@gmail.com
 
-http://www.h2ss.co.uk:8091/demo/all
+http://www.h2ss.co.uk:8090/demo/all
